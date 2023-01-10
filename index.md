@@ -1,17 +1,22 @@
 ---
 layout: default
-title: "Jizhou Wang"
+title: "Mina Parham"
 ---
 
 <!-- ## About me -->
 
-Faithful to people and technology, striving to achieve personal and educational goals. I'm always enthusiastic about learning new skills while sharing intriguing ideas in life.
+Dedicated to learning new skills and striving to achieve personal and educational goals.
 
-Currently a Prof. MSc student in Machine Learning at [Mila](https://mila.quebec/). My academic interest is focused on Meta-Learning and Continual Learning. Applications in academia, mental health and neuroscience are my biggest motivators when it comes to [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).
-
-[My Hobby 🎹](https://www.youtube.com/watch?v=HgoP2m5pZfQ)
+Currently a MSc student at Polytechnique Montreal(UdeM). Looking for a job as a data scientist or machine learning engineer.
 
 ---
+
+## Publications
+
+**Explaining the behavior of reinforcement learning agents using association rules** \| Fall 2022 [<i class="fa-solid fa-file"></i>](./papers/explainable_rl.pdf)
+\- Deepreinforcementlearningalgorithmsareincreasinglyused to drive decision-making systems. However, there exists a known tension between the efficiency of a machine learning algorithm and its level of explainability.
+Generally speaking, increased efficiency comes with the cost of decisions that are harder to explain. This concern is related to explainable artificial intelligence, which is a hot topic in the research community.
+In this paper, we propose to explain the behaviour of a deep reinforcement learning algorithm thanks to standard data mining tools, i.e. association rules. We apply this idea to the design of playing bots, which is ubiquitous in the video game industry. To do so, we designed three agents trained with a deep Q-learning algorithm for the game Street FighterTurbo II. Each agent has a specific playing style. Our experiments show that association rules can provide interesting insights on the be- havior of each agent, and reflect their specific playing style. We believe that this work is a next step towards the explanation of complex models in deep reinforcement learning.  
 
 ## Projects & Experiences
 
