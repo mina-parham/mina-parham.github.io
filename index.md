@@ -26,21 +26,20 @@ In this paper, we propose to explain the behaviour of a deep reinforcement learn
 \- notes
 -->
 
-**Convolution vs Attention \| University of Montreal** \| Winter 2022 [<i class="fa-solid fa-file"></i>](./papers/Conv_vs_Attention.pdf)  
+<!-- **Convolution vs Attention \| University of Montreal** \| Winter 2022 [<i class="fa-solid fa-file"></i>](./papers/Conv_vs_Attention.pdf)  
 \- Comparatively analyzed vision models (ResNet, ViT, ConvNext) based on convolution or attention architectures using a proxy shape-bias metric on out-of-domain Stylized Imagenet samples to measure generalization performance; with visualization shown [here](./assets/images/shape-bias.html).  
-\- Developed a framework to evaluate the out-of-domain trained models vs in-domain trained models on external medical image classification tasks.
+\- Developed a framework to evaluate the out-of-domain trained models vs in-domain trained models on external medical image classification tasks. -->
 
 **Hockey Goal Prediction \| University of Montreal** \| Fall 2021 [<i class="fa-solid fa-link"></i>](./_posts/2021-11-30-milestone-2.md)  
 \- Performed exploratory data analysis on NHL play-by-play data by building an interactive 2D shot-heatmap using plotly and ipywidget.  
 \- Developed a goal prediction service on flask with docker using the top-performing ensemble models (XGboost) based on their ROC-AUC in comet.ml.
 
-**Navigaze \| McGill Code Jam** \| 2019 [<i class="fa-solid fa-link"></i>](https://devpost.com/software/navigreat-hviz0n)  
-\- Designed a browser extension that generates a table-of-contents from any webpage, text selection using keywords, key sentences for text summarization.  
-\- Developed the backend extractive text summarization model using TextRank algorithm with spaCy and Flask.
+**Kaggle Competition \| Polytechnique Montreal** \| 2021 [<i class="fa-solid fa-link"></i>](https://github.com/mina-parham/INF8245E_FinalProject)  
+\- implemented an efficient algorithm to classify a given set of animal images into 11 classes.  
+\- The report for this project can be found [here](https://github.com/mina-parham/INF8245E_FinalProject/blob/master/report.pdf).
 
-**Toxicity Detection \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Toxicity_Detection.pdf)  
-\- Compared performances across different models such as CNN, LSTM and lexical using ROC-AUC metrics for detecting toxicity while maximizing group fairness across different identity subgroups.  
-\- Worked with pre-trained transformer models (BERT, GPT) and word embeddings such as word2vec, GloVe.
+**Regularization and Feature Selection in Least Squares Temporal Difference Learning \| Polytechnique Montreal** \| 2021 [<i class="fa-solid fa-file"></i>](https://github.com/mina-parham/INF8953DE_FinalProject)  
+\- Python-based implementation of Least Angle Regression Temporal Difference (LARS-TD) algorithm and Least-Squares Temporal Difference (LSTD). 
 
 **SqueezeNet Reproducibility \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Squeezenet_Reproducibility.pdf)  
 \- Analysis of SqueezeNet architecture vs AlexNet on CIFAR-10 by ablation while maintaining the model size reduction intended in SqueezeNet.
