@@ -1,0 +1,39 @@
+title: Jizhou Wang
+blank_title: true
+logo: /assets/img/Jawing.gif
+email: wjz199@gmail.com
+description: Love Flow Entropy 🤍
+show_downloads: false
+google_analytics: G-S3Y9V0TSFC
+favicon: true
+remote_theme: BDHU/minimalist
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+
+# sidebar config moved to sidebar.html and links-mobile.html
+# sidebar:
+#   - name: CV
+#     icon: fa-regular fa-circle-user
+#     link: /cv.pdf
+#   - name: GitHub
+#     icon: fa-brands fa-github
+#     link: https://github.com/Jawing
+#   - name: LinkedIn
+#     icon: fa-brands fa-linkedin
+#     link: https://linkedin.com/in/jizhou-wang
+#   - name: Youtube
+#     icon: fa-brands fa-youtube
+#     link: https://youtube.com/Jawing
+#   # - name: Academic Email
+#   #   icon: fa-regular fa-envelope
+#   #   link: mailto:jizhou.wang@umontreal.ca
+#   # - name: Misc.
+#   #   icon: fa-regular fa-folder
+#   #   link: /misc
+#   - name: Blog
+#     icon: fa-solid fa-pen
+#     link: /blog
