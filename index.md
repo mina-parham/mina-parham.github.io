@@ -15,7 +15,7 @@ Currently a MSc student at Polytechnique Montreal(UdeM). Looking for a job as a 
 
 **Explaining the behavior of reinforcement learning agents using association rules** \| Fall 2022 [<i class="fa-solid fa-file"></i>](./papers/explainable_rl.pdf)
 
-\- Deepreinforcementlearningalgorithmsareincreasinglyused to drive decision-making systems. However, there exists a known tension between the efficiency of a machine learning algorithm and its level of explainability.
+\- Deep reinforcement learning algorithms are increasingly used to drive decision-making systems. However, there exists a known tension between the efficiency of a machine learning algorithm and its level of explainability.
 Generally speaking, increased efficiency comes with the cost of decisions that are harder to explain. This concern is related to explainable artificial intelligence, which is a hot topic in the research community.
 In this paper, we propose to explain the behaviour of a deep reinforcement learning algorithm thanks to standard data mining tools, i.e. association rules. We apply this idea to the design of playing bots, which is ubiquitous in the video game industry. To do so, we designed three agents trained with a deep Q-learning algorithm for the game Street FighterTurbo II. Each agent has a specific playing style. Our experiments show that association rules can provide interesting insights on the behavior of each agent, and reflect their specific playing style. We believe that this work is a next step towards the explanation of complex models in deep reinforcement learning.  
 
@@ -30,38 +30,43 @@ In this paper, we propose to explain the behaviour of a deep reinforcement learn
 \- Comparatively analyzed vision models (ResNet, ViT, ConvNext) based on convolution or attention architectures using a proxy shape-bias metric on out-of-domain Stylized Imagenet samples to measure generalization performance; with visualization shown [here](./assets/images/shape-bias.html).  
 \- Developed a framework to evaluate the out-of-domain trained models vs in-domain trained models on external medical image classification tasks. -->
 
-**Hockey Goal Prediction \| University of Montreal** \| Fall 2021 [<i class="fa-solid fa-link"></i>](./_posts/2021-11-30-milestone-2.md)  
-\- Performed exploratory data analysis on NHL play-by-play data by building an interactive 2D shot-heatmap using plotly and ipywidget.  
-\- Developed a goal prediction service on flask with docker using the top-performing ensemble models (XGboost) based on their ROC-AUC in comet.ml.
+**Hockey Goal Prediction \| University of Montreal** \| Fall 2022 [<i class="fa-solid fa-link"></i>](./_posts/2021-11-30-milestone-2.md)  
+\- Analyzed NHL play-by-play data by creating an interactive 2D shot-heatmap using plotly and ipywidget. 
+\- Created a goal prediction service using Flask and Docker using optimized ensemble models (XGboost) based on the model registry in comet.ml.
 
 **Kaggle Competition \| Polytechnique Montreal** \| 2021 [<i class="fa-solid fa-link"></i>](https://github.com/mina-parham/INF8245E_FinalProject)  
 \- implemented an efficient algorithm to classify a given set of animal images into 11 classes.  
 \- The report for this project can be found [here](https://github.com/mina-parham/INF8245E_FinalProject/blob/master/report.pdf).
 
-**Regularization and Feature Selection in Least Squares Temporal Difference Learning \| Polytechnique Montreal** \| 2021 [<i class="fa-solid fa-file"></i>](https://github.com/mina-parham/INF8953DE_FinalProject)  
+**Regularization and Feature Selection in Least Squares Temporal Difference Learning \| Polytechnique Montreal** \| 2021 [<i class="fa-solid fa-link"></i>](https://github.com/mina-parham/INF8953DE_FinalProject)  
 \- Python-based implementation of Least Angle Regression Temporal Difference (LARS-TD) algorithm and Least-Squares Temporal Difference (LSTD). 
 
-**SqueezeNet Reproducibility \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Squeezenet_Reproducibility.pdf)  
-\- Analysis of SqueezeNet architecture vs AlexNet on CIFAR-10 by ablation while maintaining the model size reduction intended in SqueezeNet.
+**Machine Learning Researcher Intern \| StockholmSyndrome.ai** \| 2021 [<i class="fa-solid fa-file"></i>](https://StockholmSyndrome.ai)  
+\- Developed an algorithm to explain the behavior of a deep reinforcement learning algorithm thanks to standard data mining tools, i.e. association rules.
+\- Designed three agents with specific playing styles trained with a deep Q-learning algorithm for the game Street FighterTurbo II. A designed algorithm provided insight into each agent’s behavior and demonstrated their specific playing style.
 
-**Modified MNist Classification \| McGill** \| 2019 [<i class="fa-solid fa-file"></i>](./papers/Modified_Mnist_Classifier.pdf)  
-\- Incrementally tested hyperparameters such as loss functions, optimizers, normalization, dropouts, preprocessing and augmentations (OpenCV) for image classification.  
-\- Worked with state-of-the-art CNN models (Resnet, EfficientNet) and developed ensembles to further increase classification accuracies.
+**Data Developer \| Snapp Company** \| 2019 [<i class="fa-solid fa-file"></i>](https://en.wikipedia.org/wiki/Snapp!)  
+\- Wrote SQL queries to aggregate data.  
+\- Performed business analysis and wrote SQL scripts to analyze data and parse it to Excel.
+\- Addressed ad-hoc to provide visible data for data analysts and businesses using SSRS and Power Bi.
+\- Developed ETL pipeline in python.
+\- Developed Clickhouse Data Pipeline for Real-Time Analysis and Reporting.
+\- Developed Powerbi/Superset/Grafana Tech Stack for Visualization and advanced reporting and dashboard analysis.
+\- Worked on Clickhouse, MySql, SQL Server, and BigQuery.
 
-**Irrelevant.ai \| McGill ImplementAI** \| 2019 [<i class="fa-solid fa-link"></i>](https://devpost.com/software/irrelevant-ai)  
-\- Designed a movie recommendation system with a two-stage supervised learning model from Fast.ai using collaborative filtering and an unsupervised learning model on Scikit-learn with K-means clustering.  
-\- Developed an algorithm that lets the user escape the recommendation feedback loop while maintaining a high predictive user rating.
+**Multi-Agent Deep Reinforcement Learning \| Bachelor’s Thesis** \| 2019 [<i class="fa-solid fa-link"></i>](https://github.com/mina-parham/multi-agentDRL)  
+\- Addressed pursuit-evasion problem with a multi-agent deep reinforcement learning algorithm.
 
 <!-- **Hotel Database Designer \| McGill** \| 2018  
 \- Worked in teams to analyze and understand business and user requirements to create a detailed database design model of a hotel.  
 \- Wrote complex queries and functions using SQL and Java languages for applications to interact with the database. -->
 
-**Web Designer \| Centre Saint-Antoine 50+, Montreal, QC** \| 2017 [<i class="fa-solid fa-link"></i>](http://centrestantoine50plus.org/)  
+<!-- **Web Designer \| Centre Saint-Antoine 50+, Montreal, QC** \| 2017 [<i class="fa-solid fa-link"></i>](http://centrestantoine50plus.org/)  
 \- Created a responsive mobile redesign of the website using jQuery, Bootstrap, and AngularJS and Improved the accessibility and ease of use for elderly clients.
 
 **Software Engineer Intern \| Microsoft, Beijing** \| 2015  
 \- Maintaining web components and websites for new and existing user clients using HTML, CSS, jQuery, Bootstrap, and AngularJS.  
-\- Prototyped “MicroFriends” a social networking app for interns on android/iOS during the Microsoft Hackathon.
+\- Prototyped “MicroFriends” a social networking app for interns on android/iOS during the Microsoft Hackathon. -->
 
 ---
 
