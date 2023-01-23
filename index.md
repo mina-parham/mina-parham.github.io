@@ -72,7 +72,7 @@ In this paper, we propose to explain the behaviour of a deep reinforcement learn
 
 ## Education
 
-**University of Montreal/ Plytechnique Montreal\| MSc in Computer Engineering** \| 2021-2023  
+**University of Montreal/ Polytechnique Montreal\| MSc in Computer Engineering** \| 2021-2023  
 **Amirkabir University of Technology\| BSc in Computer Science** \| 2015-2019  
 
 ---
