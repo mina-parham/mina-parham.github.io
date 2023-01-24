@@ -39,7 +39,7 @@ In this paper, we propose to explain the behaviour of a deep reinforcement learn
 \- A model service flask app has been built using all the models that were trained and saved into Comet ML and deployed into a Docker container.
 \- In addition, we built a "Live game client" that retrieved shot events from live (or historical) NHL games, preprocessed them into features compatible with our model, and then queried our model service for expected goal predictions. 
 \- After that, Streamlit will be used to package the live game client into an interactive dashboard.
-\-You can view the deployed final project [here](http://139.177.198.52:5005/). You can select the model and version, as well as the game ID to get the prediction.
+\- You can view the deployed final project [here](http://139.177.198.52:5005/). You can select the model and version, as well as the game ID to get the prediction.
 
 
 **Kaggle Competition \| Polytechnique Montreal** \| 2021 [<i class="fa-solid fa-link"></i>](https://github.com/mina-parham/INF8245E_FinalProject)  
