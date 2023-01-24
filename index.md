@@ -32,13 +32,21 @@ In this paper, we propose to explain the behaviour of a deep reinforcement learn
 
 **Hockey Goal Prediction \| University of Montreal** \| Fall 2022 [<i class="fa-solid fa-link"></i>](./_posts/2021-11-30-milestone-2.md)  
 \- We analyzed hockey data, specifically the NHL stats API, in order to retrieve data for a specific period of time using REST API concepts.
+
 \- We have formatted the acquired data in a way that makes it easier to analyze the games.
+
 \- We created interactive and representative plots using matplotlib, Seaborn, and ploty to analyze and gain insights into the games and communicate the results more effectively.
+
 \- Selecting and creating features for downstream models, encoding features that cannot be directly used in ML models, and creating a good xG classifier.
+
 \- We tracked our experiments using Comet.ml.
+
 \- A model service flask app has been built using all the models that were trained and saved into Comet ML and deployed into a Docker container.
+
 \- In addition, we built a "Live game client" that retrieved shot events from live (or historical) NHL games, preprocessed them into features compatible with our model, and then queried our model service for expected goal predictions. 
+
 \- After that, Streamlit will be used to package the live game client into an interactive dashboard.
+
 \-You can view the deployed final project [here](http://139.177.198.52:5005/). You can select the model and version, as well as the game ID to get the prediction.
 
 
