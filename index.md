@@ -34,7 +34,7 @@ To do so, we designed three agents trained with a deep Q-learning algorithm for 
 \- We analyzed hockey data, specifically the NHL stats API, in order to retrieve data for a specific period of time using REST API concepts.  
 \- We have formatted the acquired data in a way that makes it easier to analyze the games.  
 \- We created interactive and representative plots using matplotlib, Seaborn, and ploty to analyze and gain insights into the games and communicate the results more effectively.  
-\- Selecting and creating features for downstream models, encoding features that cannot be directly used in ML models, and creating a good xG classifier.  
+\- Designed and created downstream features, encoded features not directly usable in ML models, and created a good xG classifier.  
 \- We tracked our experiments using Comet.ml.  
 \- A model service flask app has been built using all the models that were trained and saved into Comet ML and deployed into a Docker container.  
 \- In addition, we built a "Live game client" that retrieved shot events from live (or historical) NHL games, preprocessed them into features compatible with our model, and then queried our model service for expected goal predictions.  
