@@ -19,6 +19,8 @@ Currently a MSc student at Polytechnique Montreal(UdeM). Looking for a job as a 
 Generally speaking, increased efficiency comes with the cost of decisions that are harder to explain. This concern is related to explainable artificial intelligence, which is a hot topic in the research community.
 In this paper, we propose to explain the behaviour of a deep reinforcement learning algorithm thanks to standard data mining tools, i.e. association rules. We apply this idea to the design of playing bots, which is ubiquitous in the video game industry. To do so, we designed three agents trained with a deep Q-learning algorithm for the game Street FighterTurbo II. Each agent has a specific playing style. Our experiments show that association rules can provide interesting insights on the behavior of each agent, and reflect their specific playing style. We believe that this work is a next step towards the explanation of complex models in deep reinforcement learning.  
 
+---
+
 ## Projects & Experiences
 
 <!-- **Machine Learning Engineer \| Humanware** \| 2022  
